@@ -36,5 +36,5 @@ npm run start
 
 ## Notes API Testing
 
-Postman collection [here](https://web.postman.co/workspace/My-Workspace~974527e4-ea49-4664-8f86-7d4196ff5a58/request/24348936-672bb675-70fc-43e1-8a8e-e78e2358a09a?tab=scripts)
+Postman collection [here](https://elements.getpostman.com/redirect?entityId=24348936-0bff2e96-deaa-4746-a48e-2f582f883737&entityType=collection)
 
